@@ -1,0 +1,5 @@
+# robots.txt for n
+
+User-agent: *
+Disallow:
+Sitemap:
